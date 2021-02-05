@@ -1,0 +1,39 @@
+body {
+	text-align: center;
+}
+
+form {
+	display: inline-block;
+}
+
+table {
+	background-color: orange;
+	padding: 15px;
+}
+
+table td {
+	padding: 10px;
+}
+
+#display {
+	width: 100%;
+}
+
+#clear_button {
+	background-color: red;
+}
+
+input {
+	width: 80px;
+	height: 80px;
+	font-size: 35px;
+	border: none;
+}
+
+input:hover {
+	cursor: pointer;
+}
+
+.operator {
+	background-color: #80d6a9;
+}
