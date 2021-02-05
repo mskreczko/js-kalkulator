@@ -1,2 +1,2 @@
 # Kalkulator JS
-![Preview](/preview.png)
+![Preview](preview.png)
